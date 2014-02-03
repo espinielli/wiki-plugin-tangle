@@ -1,0 +1,37 @@
+{
+  "name": "wiki-plugin-tangle",
+  "version": "0.0.1",
+  "description": "Federated Wiki - Tangle Plug-in",
+  "keywords": [
+    "wiki",
+    "federated wiki",
+    "plugin"
+  ],
+  "author": {
+    "name": "Enrico Spinielli",
+    "email": "enrico.spinielli@gmail.com",
+    "url": "http://plus.google.com/+EnricoSpinielli"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.x",
+    "grunt-contrib-coffee": "~0.7.x",
+    "grunt-contrib-watch": "~0.5.x",
+    "mocha": "*",
+    "expect.js": "*",
+    "grunt-mocha-test": "~0.8.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/espinielli/wiki-plugin-tangle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/espinielli/wiki-plugin-tangle/issues"
+  },
+  "engines": {
+    "node": "0.10"
+  }
+}
